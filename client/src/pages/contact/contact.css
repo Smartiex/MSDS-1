@@ -94,9 +94,13 @@
     }
     .upper p:first-child{
         width: 90%;
-        font-size: 3rem;
+        font-size: 2rem;
     }
     .upper p:last-child{
         width: 90%;
+        font-size: 1rem;
+    }
+    .img-container h3{
+        font-size: calc((25vw)/2);
     }
 }
